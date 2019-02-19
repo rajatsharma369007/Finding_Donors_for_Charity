@@ -7,15 +7,15 @@ The goal of this project is to construct a model that accurately predicts whethe
 I have used the census income dataset provided by UCI machine learning repository.
 
 ## Installation
-* Pandas
+* Pandas  
 <code>conda install pandas</code>
-* Numpy
+* Numpy  
 <code>conda install numpy</code>
-* Scikit-learn
+* Scikit-learn  
 <code>conda install -c anaconda scikit-learn</code>
 
 ## Accuracy
-test score = 0.8718
+test score = 0.8718  
 f score = 0.7545
 
 ## Issue/Bug
